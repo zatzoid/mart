@@ -10,4 +10,4 @@
 
 анимации- кастом на кссе src/scss/ui/_anime.scss , принцип как в wowjs, только активирующий класс добавляется в процессе итерации в свайпере
 
-(сборка)[https://github.com/zatzoid/front-vanilla]
+[темплейт сборки](https://github.com/zatzoid/front-vanilla)
