@@ -344,9 +344,9 @@ jquery_default()(function () {
   initFaq();
   if (document.querySelector('.heading-main')) {
     //////////////////
-    mainPageCore();
-    iniSwipers();
-    return;
+    /*    mainPageCore()
+       iniSwipers()
+       return */
     //////////////////
 
     document.querySelector('.header').classList.add('_animation');
